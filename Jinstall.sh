@@ -16,7 +16,7 @@ cd paru
 
 makepkg -si
 
-paru -S helix-git pamac-aur polymc-bin hyprland-bin --noconfirm
+paru -S helix-git pamac-aur polymc-bin hyprland-bin appimagelauncher --noconfirm
 
 cd
 

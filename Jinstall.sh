@@ -39,7 +39,7 @@ cp kitty /home/jake/.config/
 git config --global user.email "jakedevquestions@gmail.com"
 git config --global user.name "Jake"
 
-$ ssh-keygen -t ed25519 -C "jakedevquestions@gmail.com"
+ssh-keygen -t ed25519 -C "jakedevquestions@gmail.com"
 eval "$(ssh-agent -s)"
 ssh-add ~/.ssh/id_ed25519
 

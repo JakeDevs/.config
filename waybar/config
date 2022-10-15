@@ -1,7 +1,7 @@
 {
 	"layer": "top",
 	"modules-left": ["wlr/workspaces", "mpd", "hyprland/window"],
-	"modules-center": [],
+	"modules-center": ["tray"],
 	"modules-right": ["network", "pulseaudio", "temperature", "cpu", "memory", "clock"],
 	"mpd": {
 		"tooltip": false,
